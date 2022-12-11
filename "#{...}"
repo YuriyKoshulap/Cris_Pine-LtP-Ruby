@@ -1,0 +1,4 @@
+"#{...}"
+name = "Alexandra Emily Strom Rubeola"
+puts "My name is #{name}"
+puts "Wow! #{name}\nis a really long name."
